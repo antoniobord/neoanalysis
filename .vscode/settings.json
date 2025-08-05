@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/opt/homebrew/Cellar/python@3.12/3.12.4/Frameworks/Python.framework/Versions/3.12/bin/python3.12",
+  "python.pythonPath": "/opt/homebrew/Cellar/python@3.12/3.12.4/Frameworks/Python.framework/Versions/3.12/bin/python3.12",
+  "python.analysis.extraPaths": [
+    "backend/venv/lib/python3.12/site-packages"
+  ]
+}
